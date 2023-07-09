@@ -15,7 +15,7 @@ Fit.Rony is a Telegram bot designed to provide fitness advice and tips to users.
 To start using the Fit.Rony bot, follow these steps:
 
 1. Create a Telegram account if you don't have one already.
-2. Search for "Fit.RonyBot" in the Telegram app.
+2. Search for "@FitRonyBot" in the Telegram app.
 3. Start a conversation with the bot.
 4. Send a message to the bot to receive personalized fitness advice and tips.
 
