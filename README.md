@@ -29,5 +29,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or support regarding the Fit.Rony bot, please contact us at fitronybot@example.com.
+For any inquiries or support regarding the Fit.Rony bot, please contact us at munjapararonak1@gmail.com
 
